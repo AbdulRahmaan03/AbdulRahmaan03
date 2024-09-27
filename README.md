@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a final-year CS engineering student.<br>I'm interested in Data Science and Data Analysis. <br>I'm currently working on building dashboards using Power BI. <br>I am also exploring image classification, generation, and segmentation using Tensorflow.<br>
+I'm a first-year MSc in Data Science student @ Heriot-Watt University.<br>I'm interested in Data Science and Data Analysis. <br>I'm currently working on building dashboards using Power BI. <br>I am also exploring image classification, generation, and segmentation using Tensorflow.<br>
 
 
 ## 🌐 Socials:
